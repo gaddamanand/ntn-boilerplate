@@ -12,7 +12,7 @@
 
     <section class="mt-8">
       <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Latest Tour Post</h3>
-      <posts post-type="tour" :amount="1" />
+      <posts post-type="tours" :amount="1" />
     </section>
   </main>
 </template>
